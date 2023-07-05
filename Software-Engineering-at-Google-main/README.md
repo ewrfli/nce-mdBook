@@ -1,10 +1,16 @@
+<!--
+ * @Author: ewrfli q304062@163.com
+ * @Date: 2023-07-05 17:34:29
+ * @LastEditors: ewrfli q304062@163.com
+ * @LastEditTime: 2023-07-05 17:37:49
+ * @FilePath: \nce-mdBook\Software-Engineering-at-Google-main\README.md
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
 # Software-Engineering-at-Google
 
 《Software Engineering at Google》的中英文对译版本。
 
 ## 书籍介绍
-
-![Software Engineering at Google](./assets/images/swe_at_google.2.cover.jpg)
 
 - [前言](zh-cn/Foreword.md)
 - [序言](zh-cn/Preface.md)
@@ -35,3 +41,5 @@
 - [第二十五章 计算即服务](zh-cn/Chapter-25_Compute_as_a_Service/Chapter-25_Compute_as_a_Service.md)
 - [后记](zh-cn/Afterword.md)
 
+
+![Software Engineering at Google](./assets/images/swe_at_google.2.cover.jpg)
